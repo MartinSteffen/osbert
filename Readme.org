@@ -3,10 +3,10 @@
 ** Abstract: Osbert
 
 
-The repository collects the /sources/ of the ``Osbert'' project
-(/Programming environment for Statecharts/) , a programming project course
-``Projektpraktikum Softwaresysteme'' (for 4th semester students of
-Engineering), summer semester 2002at the University Kiel.
+The repository collects the /sources/ of the ``Osbert'' project, a
+programming project course ``Projektpraktikum Softwaresysteme'' (for 4th
+semester students of Engineering), summer semester 2002 the University
+Kiel.
 
 For the webpages of the course project, see [[http://heim.ifi.uio.no/msteffen/teaching/softtech/ss00/projektpraktikum][here]]. Teachers were Marcel
 Kyas + Martin Steffen.
