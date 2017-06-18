@@ -1,0 +1,39 @@
+
+
+** Abstract: Osbert
+
+
+The repository collects the /sources/ of the ``Osbert'' project
+(/Programming environment for Statecharts/) , a programming project course
+``Projektpraktikum Softwaresysteme'' (for 4th semester students), summer
+semester 2002at the University Kiel.
+
+For the webpages of the course project, see [[http://heim.ifi.uio.no/msteffen/teaching/softtech/ss00/projektpraktikum][here]].
+
+
+** Structure
+
+This is the root of the Pest-project from the winter semester 1998/1999.
+The package contains the following files and subdirectories:
+
+  
+
+    - [[,/Readme.org]]:        this file
+    - [[./src]]:               sources
+    - [[./Gruppe1]]:           for group 1
+    - [[./Gruppe2]]:           for group 2
+
+The webpages, administrative information, and generated documentation is
+not part of the repos.
+
+
+** Historical notes
+
+The repository has been resurrected by migrating from ~cvs~ via svn (using
+~cvs2svn~) and from there to ~git~. Caveats concerning missing branches
+apply. Also the /Snapshots/ or baselines (original svn revision tags) seem
+not to be preserved as git labels in the final repository.  Also, original
+/authors/ have not been preserved, as the original development was done all
+via ``anonoymous'' logins; in general, the contributors were the different
+students in the course plus the course teachers.
+
